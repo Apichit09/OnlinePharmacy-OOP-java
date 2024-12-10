@@ -1,0 +1,80 @@
+M001,Paracetamol,For pain relief,10,90
+M002,Ibuprofen,Anti-inflammatory,20,100
+M003,Aspirin,For headache relief,5,50
+M004,Amoxicillin,Antibiotic,15,50
+M005,Cetirizine,For allergies,12,60
+M006,Metformin,For diabetes,18,60
+M007,Lisinopril,For blood pressure,25,80
+M008,Atorvastatin,For cholesterol,30,110
+M009,Omeprazole,For acid reflux,22,90
+M010,Ranitidine,For ulcers,16,70
+M011,Hydrochlorothiazide,Diuretic,10,150
+M012,Salbutamol,For asthma,8,160
+M013,Clopidogrel,For blood thinning,28,50
+M014,Warfarin,For blood clot prevention,35,40
+M015,Metronidazole,Antibiotic,18,70
+M016,Azithromycin,Antibiotic,22,60
+M017,Diazepam,For anxiety,12,50
+M018,Alprazolam,For anxiety,15,60
+M019,Levothyroxine,For thyroid,20,100
+M020,Insulin,For diabetes,50,120
+M021,Prednisolone,Steroid,18,70
+M022,Diclofenac,For pain relief,15,80
+M023,Naproxen,For pain relief,12,110
+M024,Ciprofloxacin,Antibiotic,22,60
+M025,Doxycycline,Antibiotic,20,50
+M026,Hydroxychloroquine,For arthritis,18,40
+M027,Ivermectin,Antiparasitic,25,35
+M028,Loratadine,For allergies,10,120
+M029,Vitamin D,Supplement,8,200
+M030,Calcium,Supplement,12,100
+M031,Loperamide,For diarrhea,8,150
+M032,Clarithromycin,For bacterial infections,25,60
+M033,Furosemide,Diuretic,15,100
+M034,Spironolactone,For high blood pressure,18,80
+M035,Losartan,For high blood pressure,22,70
+M036,Simvastatin,For cholesterol,20,90
+M037,Ezetimibe,For cholesterol,18,50
+M038,Amlodipine,For blood pressure,25,75
+M039,Nifedipine,For blood pressure,28,40
+M040,Metoprolol,For heart disease,30,60
+M041,Atenolol,For heart disease,20,50
+M042,Propranolol,For heart conditions,18,50
+M043,Bisoprolol,For heart conditions,22,30
+M044,Clonidine,For high blood pressure,15,40
+M045,Hydralazine,For high blood pressure,18,30
+M046,Carvedilol,For heart failure,25,50
+M047,Diltiazem,For angina,28,35
+M048,Verapamil,For heart rhythm disorders,30,40
+M049,Digoxin,For heart failure,20,45
+M050,Isosorbide Mononitrate,For angina,18,30
+M051,Nitroglycerin,For chest pain,12,60
+M052,Amiodarone,For arrhythmias,30,25
+M053,Lidocaine,For arrhythmias,20,50
+M054,Phenobarbital,For seizures,15,40
+M055,Phenytoin,For seizures,18,60
+M056,Valproate,For epilepsy,25,30
+M057,Carbamazepine,For epilepsy,22,50
+M058,Lamotrigine,For epilepsy,20,45
+M059,Topiramate,For epilepsy,28,35
+M060,Levetiracetam,For epilepsy,25,40
+M061,Gabapentin,For nerve pain,18,60
+M062,Pregabalin,For nerve pain,22,50
+M063,Sumatriptan,For migraines,28,30
+M064,Zolmitriptan,For migraines,25,30
+M065,Rizatriptan,For migraines,20,40
+M066,Ergotamine,For migraines,18,20
+M067,Betahistine,For vertigo,12,50
+M068,Cinnarizine,For motion sickness,15,80
+M069,Diphenhydramine,For allergies,10,120
+M070,Promethazine,For nausea,12,100
+M071,Ondansetron,For nausea,22,70
+M072,Dexamethasone,Steroid,18,60
+M073,Fluconazole,For fungal infections,20,50
+M074,Terbinafine,For fungal infections,25,40
+M075,Clotrimazole,For fungal infections,12,90
+M076,Nystatin,For fungal infections,15,80
+M077,Acyclovir,For viral infections,20,60
+M078,Valacyclovir,For viral infections,25,50
+M079,Oseltamivir,For influenza,30,20
+M080,Zanamivir,For influenza,28,20

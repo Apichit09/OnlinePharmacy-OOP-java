@@ -1,0 +1,4 @@
+CUS1732368376103,Apichit,address123,1234567890,Customer01@gmail.com,Guest
+CUS1732442407562,Apichit,address123,1234567890,Customer02@gmail.com,VIP
+CUS1732611127250,Customer3,213 sadasgy lasdga alskdh 21111,2131321,Customer03@gmail.com,Guest
+CUS1733152844756,Customer04,233/2 asopy sdgaia uasdoh 29999,1234567890,Customer04@gmail.com,VIP
